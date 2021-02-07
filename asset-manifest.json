@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/PSservices/static/css/main.1ad7d2be.chunk.css",
+    "main.js": "/PSservices/static/js/main.4666b6b0.chunk.js",
+    "main.js.map": "/PSservices/static/js/main.4666b6b0.chunk.js.map",
+    "runtime-main.js": "/PSservices/static/js/runtime-main.9b9b0a7c.js",
+    "runtime-main.js.map": "/PSservices/static/js/runtime-main.9b9b0a7c.js.map",
+    "static/js/2.94944e1a.chunk.js": "/PSservices/static/js/2.94944e1a.chunk.js",
+    "static/js/2.94944e1a.chunk.js.map": "/PSservices/static/js/2.94944e1a.chunk.js.map",
+    "index.html": "/PSservices/index.html",
+    "static/css/main.1ad7d2be.chunk.css.map": "/PSservices/static/css/main.1ad7d2be.chunk.css.map",
+    "static/js/2.94944e1a.chunk.js.LICENSE.txt": "/PSservices/static/js/2.94944e1a.chunk.js.LICENSE.txt",
+    "static/media/About.856dfe90.png": "/PSservices/static/media/About.856dfe90.png",
+    "static/media/App.755df4d2.jpg": "/PSservices/static/media/App.755df4d2.jpg",
+    "static/media/Card1.90f62493.jpg": "/PSservices/static/media/Card1.90f62493.jpg",
+    "static/media/Cloud.e680a03b.jpg": "/PSservices/static/media/Cloud.e680a03b.jpg",
+    "static/media/Home.3b98d88e.jpg": "/PSservices/static/media/Home.3b98d88e.jpg",
+    "static/media/Home.8c8a44b4.png": "/PSservices/static/media/Home.8c8a44b4.png",
+    "static/media/Network.bc4cb63a.jpg": "/PSservices/static/media/Network.bc4cb63a.jpg",
+    "static/media/SEO.56fd967c.jpg": "/PSservices/static/media/SEO.56fd967c.jpg",
+    "static/media/Software.42c2799f.jpg": "/PSservices/static/media/Software.42c2799f.jpg",
+    "static/media/Web.0648d164.jpg": "/PSservices/static/media/Web.0648d164.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b9b0a7c.js",
+    "static/js/2.94944e1a.chunk.js",
+    "static/css/main.1ad7d2be.chunk.css",
+    "static/js/main.4666b6b0.chunk.js"
+  ]
+}
